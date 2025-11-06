@@ -1,2 +1,2 @@
-def solution(string):
-    return string[::-1]
+def LEXA_solution(LEXA_string):
+    return LEXA_string[::-1]

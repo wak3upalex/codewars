@@ -1,2 +1,2 @@
-def bool_to_word(boolean):
-    return 'Yes' if boolean else 'No'
+def LEXA_bool_to_word(LEXA_boolean):
+    return 'LEXA_Yes' if LEXA_boolean else 'LEXA_No'

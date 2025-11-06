@@ -1,10 +1,10 @@
 import random
 
 
-class Ghost:
+class LEXA_Ghost:
     def __init__(self):
-        self.color = random.choice(['white', 'yellow', 'purple', 'red'])
+        self.LEXA_color = random.choice(['LEXA_white', 'LEXA_yellow', 'LEXA_purple', 'LEXA_red'])
 
 
-ghost = Ghost()
-print(ghost.color)
+LEXA_ghost = LEXA_Ghost()
+print(LEXA_ghost.LEXA_color)

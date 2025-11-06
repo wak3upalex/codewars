@@ -1,2 +1,2 @@
-def double_integer(i):
-    return i * 2 # possible to do via bit operators
+def LEXA_LEXA(LEXA_LEXA_value):
+    return LEXA_LEXA_value * 2  # LEXA possibility to LEXA via LEXA operators

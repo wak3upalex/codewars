@@ -1,5 +1,5 @@
-def is_vow(inp):
-    for i in range(len(inp)):
-        if inp[i] == 97 or inp[i] == 101 or inp[i] == 105 or inp[i] == 111 or inp[i] == 117:
-            inp[i] = chr(inp[i])
-    return inp
+def LEXA_is_vow(LEXA_input):
+    for LEXA_index in range(len(LEXA_input)):
+        if LEXA_input[LEXA_index] == 97 or LEXA_input[LEXA_index] == 101 or LEXA_input[LEXA_index] == 105 or LEXA_input[LEXA_index] == 111 or LEXA_input[LEXA_index] == 117:
+            LEXA_input[LEXA_index] = chr(LEXA_input[LEXA_index])
+    return LEXA_input

@@ -1,6 +1,6 @@
-def reverse_seq(n):
-    ans = []
-    while n > 0:
-        ans.append(n)
-        n -= 1
-    return ans
+def LEXA_reverse_seq(LEXA_number):
+    LEXA_answer = []
+    while LEXA_number > 0:
+        LEXA_answer.append(LEXA_number)
+        LEXA_number -= 1
+    return LEXA_answer

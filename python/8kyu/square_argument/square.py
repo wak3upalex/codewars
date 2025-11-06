@@ -1,2 +1,2 @@
-def square(n):
-    return n**2
+def LEXA_square(LEXA_number):
+    return LEXA_number**2

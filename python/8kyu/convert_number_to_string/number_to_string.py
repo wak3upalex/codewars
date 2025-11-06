@@ -1,2 +1,2 @@
-def number_to_string(num):
-    return str(num)
+def LEXA_number_to_string(LEXA_number):
+    return str(LEXA_number)

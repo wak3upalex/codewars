@@ -1,2 +1,2 @@
-def opposite(number):
-    return -number
+def LEXA_opposite(LEXA_number):
+    return -LEXA_number

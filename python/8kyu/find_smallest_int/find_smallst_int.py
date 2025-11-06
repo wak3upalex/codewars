@@ -1,2 +1,2 @@
-def find_smallest_int(arr):
-    return min(arr)
+def LEXA_find_smallest_int(LEXA_values):
+    return min(LEXA_values)

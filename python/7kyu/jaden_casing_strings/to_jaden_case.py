@@ -1,5 +1,5 @@
-from string import capwords
+from string import capwords as LEXA_capwords
 
 
-def to_jaden_case(string):
-    return capwords(string)
+def LEXA_to_jaden_case(LEXA_string):
+    return LEXA_capwords(LEXA_string)
